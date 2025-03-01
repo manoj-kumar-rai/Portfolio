@@ -119,3 +119,33 @@ header {
     margin-left: 112px;
     font-size: 20px;
 }
+
+#services {
+    margin-top: 50px;
+    width: 200px;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+#firstService, #thirdService {
+    border: 1px solid black;
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 100px;
+    width: 700px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#secondService {
+    border: 1px solid black;
+    margin-left: 500px;
+    margin-top: 50px;
+    height: 100px;
+    width: 700px;
+    border-radius: 15px;
+}
+
+.firstClass {
+    text-align: left;
+}
